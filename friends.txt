@@ -1,6 +1,14 @@
 Hi 
+<<<<<<< HEAD
 ashwini
 ramya
 divya
 sri
 riya
+=======
+diya
+ramiya
+meera
+trisha
+chithra
+>>>>>>> 660163afa622d893ff30cf452c0b5b5772189ab1
